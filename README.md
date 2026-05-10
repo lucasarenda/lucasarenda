@@ -24,13 +24,13 @@ Tools and Plataforms
 📞 Contact Me
 ---
 <div align="center">
-  <a href="https://wa.me/11976698778" target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/11976987246" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" />
   </a>
-  <a href="mailto:gcs200206@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:lucas.arenda@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/guilhermecardosodossantos/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/lucas-arenda-76775b2aa/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
 </div>
