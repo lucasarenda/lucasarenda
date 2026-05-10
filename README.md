@@ -1,7 +1,7 @@
 !Banner
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=32&duration=4000&pause=1000&color=0276FF&center=true&lines=Welcome!;My+name+is+Guilherme+Cardoso;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=32&duration=4000&pause=1000&color=0276FF&center=true&lines=Welcome!;My+name+is+Lucas+Arenda;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old" alt="Typing SVG">
 </div>
 
 💻 Technologies
