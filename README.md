@@ -13,7 +13,7 @@ Front-End
 
 Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,,hibernate,maven,postgresql" alt="Back-End Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql" alt="Back-End Skills" />
 </p>
 
 Tools and Plataforms
