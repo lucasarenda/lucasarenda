@@ -8,12 +8,12 @@
 ---
 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,styledcomponents" alt="Front-End Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Front-End Skills" />
 </p>
 
 Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql" alt="Back-End Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,,hibernate,maven,postgresql" alt="Back-End Skills" />
 </p>
 
 Tools and Plataforms
